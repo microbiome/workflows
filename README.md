@@ -1,6 +1,6 @@
-# workflows
+# Microbiome–Metabolome Multi-omics Workflow
 
-Microbiome workflows
+An open Bioconductor workflow for integrating metagenomic and metabolomic data
 
 ## About
 
